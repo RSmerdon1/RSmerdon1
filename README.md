@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @RSmerdon1
-- 👀 I’m interested in ...creating a to do app for my wife
-- 🌱 I’m currently learning ... SwiftUI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ryan Smerdon, Developer of CFR AT Titles
+- 🫁👩‍⚕️ Download my Apps on the app store labeled CFR AI - Title #
+- 📫 How to reach me ... ryansmerdon@gmail.com
 
 <!---
 RSmerdon1/RSmerdon1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
