@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ryan Smerdon, Developer of CFR AT Titles
+- 👋 Hi, I’m Ryan Smerdon, Developer of CFR AI Titles
 - 🫁👩‍⚕️ Download my apps on the App Store labeled CFR AI - Title #
 - 📫 How to reach me ... ryansmerdon@gmail.com
 
