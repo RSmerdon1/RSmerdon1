@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ryan Smerdon, Developer of CFR AI Titles
 - 🫁👩‍⚕️ Download my apps on the App Store labeled CFR AI - Title #
-- 📫 How to reach me ... ryansmerdon@gsmerdevstudio.com
+- 📫 How to reach me ... ryansmerdon@smerdevstudio.com
 
 <!---
 RSmerdon1/RSmerdon1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
